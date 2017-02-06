@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp.csproj", "{B004EBB4-991E-446B-8E6C-DB2D538403A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{D6287E75-04CC-4E08-B640-FE31B4A4715E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{1467382C-749D-4A96-BE2D-7FFAA22D1AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B004EBB4-991E-446B-8E6C-DB2D538403A9}.Debug|x86.ActiveCfg = Debug|x86
+		{B004EBB4-991E-446B-8E6C-DB2D538403A9}.Debug|x86.Build.0 = Debug|x86
+		{B004EBB4-991E-446B-8E6C-DB2D538403A9}.Release|x86.ActiveCfg = Release|x86
+		{B004EBB4-991E-446B-8E6C-DB2D538403A9}.Release|x86.Build.0 = Release|x86
+		{D6287E75-04CC-4E08-B640-FE31B4A4715E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D6287E75-04CC-4E08-B640-FE31B4A4715E}.Debug|x86.Build.0 = Debug|Any CPU
+		{D6287E75-04CC-4E08-B640-FE31B4A4715E}.Release|x86.ActiveCfg = Release|Any CPU
+		{D6287E75-04CC-4E08-B640-FE31B4A4715E}.Release|x86.Build.0 = Release|Any CPU
+		{1467382C-749D-4A96-BE2D-7FFAA22D1AED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1467382C-749D-4A96-BE2D-7FFAA22D1AED}.Debug|x86.Build.0 = Debug|Any CPU
+		{1467382C-749D-4A96-BE2D-7FFAA22D1AED}.Release|x86.ActiveCfg = Release|Any CPU
+		{1467382C-749D-4A96-BE2D-7FFAA22D1AED}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
