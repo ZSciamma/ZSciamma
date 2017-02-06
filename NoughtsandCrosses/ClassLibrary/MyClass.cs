@@ -5,7 +5,7 @@ using System.Text;
 
 namespace NoughtsandCrosses
 {
-	class Program
+	public class Program
 	{
 
 		// Skeleton program code for the AQA Comp1 Summer 2010 examination 
@@ -30,7 +30,7 @@ namespace NoughtsandCrosses
 		public static char PlayerTwoSymbol;
 		public static char Answer;
 
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			Console.WriteLine("What is the name of player one? ");
 			PlayerOneName = Console.ReadLine();
