@@ -3,3 +3,8 @@
 /Users/zacharie/Documents/A Levels/Computing/Dr Harrison/ConsoleApp/ClassLibrary/bin/Debug/ClassLibrary.dll
 /Users/zacharie/Documents/A Levels/Computing/Dr Harrison/ConsoleApp/ClassLibrary/obj/Debug/ClassLibrary.dll
 /Users/zacharie/Documents/A Levels/Computing/Dr Harrison/ConsoleApp/ClassLibrary/obj/Debug/ClassLibrary.dll.mdb
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/ClassLibrary/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/ClassLibrary/bin/Debug/ClassLibrary.dll.mdb
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/ClassLibrary/bin/Debug/ClassLibrary.dll
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/ClassLibrary/obj/Debug/ClassLibrary.dll
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/ClassLibrary/obj/Debug/ClassLibrary.dll.mdb

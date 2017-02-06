@@ -168,11 +168,12 @@ namespace NoughtsandCrosses
 
 		public static bool CheckValidMove(int XCoordinate, int YCoordinate, char[,] Board)
 		{
-			bool ValidMove = true;
-
+			bool valid = true;
 			if (XCoordinate < 1 || XCoordinate > 3) // Check X coordinate is valid
-				ValidMove = false;
-			return ValidMove;
+				valid = false;
+			if (Board[XCoord, YCoord] == 'X' || Board[XCoord, YCoord] == 'Y')
+				valid = false;
+			return valid;
 		}  // end CheckValidMove
 
 		public static bool CheckXOrOHasWon(char[,] Board)

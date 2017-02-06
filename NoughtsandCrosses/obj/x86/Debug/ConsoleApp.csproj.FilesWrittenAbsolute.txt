@@ -5,3 +5,10 @@
 /Users/zacharie/Documents/A Levels/Computing/Dr Harrison/ConsoleApp/obj/x86/Debug/ConsoleApp.exe.mdb
 /Users/zacharie/Documents/A Levels/Computing/Dr Harrison/ConsoleApp/bin/Debug/ClassLibrary.dll
 /Users/zacharie/Documents/A Levels/Computing/Dr Harrison/ConsoleApp/bin/Debug/ClassLibrary.dll.mdb
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/bin/Debug/ConsoleApp.exe.mdb
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/bin/Debug/ConsoleApp.exe
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/obj/x86/Debug/ConsoleApp.exe
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/obj/x86/Debug/ConsoleApp.exe.mdb
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/bin/Debug/ClassLibrary.dll
+/Users/zacharie/GitHub/ZSciamma/NoughtsandCrosses/bin/Debug/ClassLibrary.dll.mdb
