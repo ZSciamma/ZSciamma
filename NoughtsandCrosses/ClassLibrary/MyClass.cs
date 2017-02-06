@@ -171,7 +171,7 @@ namespace NoughtsandCrosses
 			bool valid = true;
 			if (XCoordinate < 1 || XCoordinate > 3) // Check X coordinate is valid
 				valid = false;
-			if (Board[XCoord, YCoord] == 'X' || Board[XCoord, YCoord] == 'Y')
+			if (Board[XCoord, YCoord] == 'X' || Board[XCoord, YCoord] == 'O')
 				valid = false;
 			return valid;
 		}  // end CheckValidMove
